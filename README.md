@@ -10,7 +10,7 @@ This tiny program installs a hook that restores assembly functionality on OS ver
 
 If it doesn't have exactly `CE` in the name then it is not supported!
 
-- Any OS version
+- Any OS version up to 5.8.2 (5.8.3 is not supported)
 
 ## Compile
 
